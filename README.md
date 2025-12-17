@@ -8,6 +8,10 @@ This project focuses on the decision-making and visualization layer of a startup
 
 ## Overview
 
+<img width="1919" height="851" alt="Image" src="https://github.com/user-attachments/assets/f2babb41-9274-4a61-aa08-b9bc4d5d3fb6" />
+
+After uploading the CSV file we can see the data of csv and also we can download the csv data
+<img width="1916" height="880" alt="Image" src="https://github.com/user-attachments/assets/d2d0da73-b45a-4ecf-8f85-1e0b80807fea" />
 The goal of this project is to help identify high-priority startups that are most likely to be actively hiring for technical roles.
 
 The system assumes startup funding and hiring data as given input and focuses on:
@@ -88,7 +92,7 @@ Downloadable Output
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/startup-hiring-intelligence.git
+git clone https://github.com/sudheer72/startup-hiring-intelligence.git
 cd startup-hiring-intelligence
 ````
 
