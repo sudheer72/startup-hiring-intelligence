@@ -67,18 +67,12 @@ The solution is data-agnostic and works with any dataset that follows the same s
 ---
 
 ## Architecture
-
-CSV Input
-   ↓
-Scoring Engine (Python)
-   ↓
-Ranking & Priority Classification
-   ↓
-Interactive Dashboard (Streamlit + AG Grid)
-   ↓
-Downloadable Output
  
-
+CSV Input  
+→ Scoring Engine (Python)  
+→ Ranking & Priority Classification  
+→ Interactive Dashboard (Streamlit + AG Grid)  
+→ Downloadable Output  
 ---
 
 ## Tech Stack
