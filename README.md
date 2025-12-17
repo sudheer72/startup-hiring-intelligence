@@ -4,6 +4,8 @@ A reproducible Streamlit-based dashboard that scores, ranks, and visualizes star
 
 This project focuses on the decision-making and visualization layer of a startup intelligence pipeline.
 
+📊 Live Demo Output
+https://docs.google.com/spreadsheets/d/1lCREXKqPHe1roiiwv4vbwox2zosxu_Ljw44vAUZhanY/edit?usp=sharing
 ---
 
 ## Overview
